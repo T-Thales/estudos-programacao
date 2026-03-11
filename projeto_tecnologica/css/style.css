@@ -1,0 +1,27 @@
+/* LIMPAR FORMATAÇÕES */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header{
+    background-color: #0066cc;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo, menu{
+    padding: 10px;
+}
+
+#header a:link, #header a:visited{
+    color: #ffffff;
+    padding: 8px 12px;
+}
+
+#header a:hover{
+    color: #0066cc;
+    background: #ffffff;
+    text-decoration: none;
+}
